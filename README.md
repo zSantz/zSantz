@@ -16,7 +16,7 @@
 <details>
 <summary><h3>Completed courses</h3></summary>
   
-- <a href="https://drive.google.com/file/d/1R2Y12caHA3VYAyHgMB9DMxi_YZwHu30Z/view?usp=sharing">Rocketseat: Discover - Trilha Conectar
+
 
 
 </details>
