@@ -13,10 +13,6 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<details>
-<summary><h3>Completed courses</h3></summary>
-  
-
 
 
 </details>
