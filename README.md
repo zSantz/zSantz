@@ -8,8 +8,7 @@
 ____
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSantz&count_private=true&theme=tokyonight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zSantz&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zSabtz&layout=donut)
 ## Estou Aprendendo
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
