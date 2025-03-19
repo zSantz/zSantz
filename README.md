@@ -1,14 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2828e6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5a4fcf&size=35&center=true&vCenter=true&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+my+name+is+Augusto;I'm+a+%F0%9F%93%8A+Data+Analyst!+%F0%9F%93%88%F0%9F%92%BB;I'm+from+Brazil!+%F0%9F%8C%B4%F0%9F%98%8A;Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5a4fcf&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Junior%21+%F0%9F%91%8B%0A;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7%2C;I'm+a+Cyber+Security+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%0A;Welcome+to+my+GitHub+%F0%9F%A5%B6)](https://git.io/typing-svg)
 </br>
-<div align="left"> 
+<div align="center"> 
+ 
+---
+### How to Expect My GitHub 🚀
+✍️ Write-ups  
+💻 Scripts  
+🔐 Hacking content
+
+### How to Study in moment
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00A3E0?style=for-the-badge&logo=security&logoColor=white)
+</br>
 
 ### Contact me  
 
-<a href="https://www.instagram.com/elninosantz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "https://twitter.com/elSanttz"> <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a>
-<a href="https://www.linkedin.com/in/augustocesar-sf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/elninosantz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
+<a href = "https://twitter.com/elninosantz"> <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a></br>
+<a href="https://www.linkedin.com/in/augusto-cesar-9971632ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  <br>
 
@@ -20,18 +32,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSantz&layout=compact&hide_border=true&title_color=5252eb&text_color=9393f2&bg_color=0d1117" />
 </div>
 
-
-
 <div align="center">
 
-### Studying in this moment:
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{zSantz}/count.svg" /></p> 
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2828e6&height=120&section=footer"/>
