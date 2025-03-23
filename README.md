@@ -10,6 +10,8 @@
 💻 Scripts  
 🔐 Hacking content
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Elninosantz.png" alt="Your Image Badge" />
+
 ### How to Study in moment
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=cisco&logoColor=white)
