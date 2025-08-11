@@ -25,14 +25,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zSantz&show_icons=true&count_private=true&hide_border=true&title_color=5252eb&icon_color=6868ed&text_color=9393f2&bg_color=0d1117" alt="Estatísticas de Augusto Cesar no GitHub" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSantz&layout=compact&hide_border=true&title_color=5252eb&text_color=9393f2&bg_color=0d1117" alt="Linguagens mais usadas" />
-</p>
-
----
 
 ### 📫 Como me encontrar
 
